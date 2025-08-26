@@ -1,0 +1,7 @@
+MONGODB_URI = mongodb+srv://johnsondravid143:12345@e-commerce.imljw.mongodb.net/?retryWrites=true&w=majority&appName=E-Commerce
+
+
+CLERK_PUBLISHABLE_KEY=pk_test_c29jaWFsLWNhdGZpc2gtNzAuY2xlcmsuYWNjb3VudHMuZGV2JA
+CLERK_SECRET_KEY=sk_test_SsZ70n5FywceRy4ZCcyetqWyiSdrYgBmiOmSeHEvvt
+
+CLERK_WEBHOOK_SECRET =whsec_3jF6jO7+kkO68szh8LZ4B2d5uxqYr6QK
